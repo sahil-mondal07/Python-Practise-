@@ -7,7 +7,7 @@ diff=num1-num2
 prod=num1*num2
 quo=num1/num2
 mod=num1%num2
-print("sum : "sum)
+print("sum : ",sum)
 print("difference : ",diff)
 print("product : ",prod)
 print("quotient : ",quo)
